@@ -37,7 +37,7 @@ Skill для Claude Code, который генерирует VSL-сценари
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/yasikvlad/vsl-high-ticket-skill.git
+git clone https://github.com/kkarpushin/vsl-high-ticket-skill.git
 
 # Скопируйте в папку skills
 cp -r vsl-high-ticket-skill ~/.claude/skills/vsl-high-ticket
